@@ -9,5 +9,5 @@
 - 🌱 I’m currently learning Elixir, React
 - 📫 How to reach me: kaleyeshan@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wizkaley&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wizkaley&theme=onedark&title=MultiLanguage,PR,Commit,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
