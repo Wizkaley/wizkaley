@@ -5,7 +5,6 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on https://github.com/Wizkaley/urbandictionary
 - 🌱 I’m currently learning Elixir, React
 - 📫 How to reach me: kaleyeshan@gmail.com
 
